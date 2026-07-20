@@ -1,0 +1,342 @@
+{
+  "syntax": {
+    "ok": true,
+    "stderr": ""
+  },
+  "viewports": {
+    "1366x768": {
+      "select": {
+        "sw": 1366,
+        "sh": 768,
+        "cw": 1366,
+        "ch": 768
+      },
+      "brief": {
+        "sw": 1366,
+        "sh": 768,
+        "cw": 1366,
+        "ch": 768
+      },
+      "errors": [],
+      "no_scroll": true
+    },
+    "1600x900": {
+      "select": {
+        "sw": 1600,
+        "sh": 900,
+        "cw": 1600,
+        "ch": 900
+      },
+      "brief": {
+        "sw": 1600,
+        "sh": 900,
+        "cw": 1600,
+        "ch": 900
+      },
+      "errors": [],
+      "no_scroll": true
+    }
+  },
+  "stages": [
+    {
+      "mode": "play",
+      "stage": 0,
+      "players": [
+        {
+          "id": 1,
+          "x": 38,
+          "y": 210.58333333333326,
+          "down": 0
+        },
+        {
+          "id": 2,
+          "x": 66,
+          "y": 212.58333333333326,
+          "down": 0
+        }
+      ],
+      "objects": {
+        "platforms": 3,
+        "boxes": 1,
+        "balls": 0,
+        "seesaws": 1,
+        "hooks": 0
+      },
+      "ropeHooks": [],
+      "levers": [
+        false
+      ],
+      "plates": [
+        {
+          "value": 0,
+          "on": false
+        }
+      ],
+      "gates": [
+        {
+          "open": false,
+          "amount": 0
+        }
+      ],
+      "level": {
+        "leverReleased": false,
+        "gateOpen": false
+      },
+      "objective": "シーソーでミミを上段へ送れ",
+      "page_errors": []
+    },
+    {
+      "mode": "play",
+      "stage": 1,
+      "players": [
+        {
+          "id": 1,
+          "x": 45,
+          "y": 209.95902777777772,
+          "down": 0
+        },
+        {
+          "id": 2,
+          "x": 74,
+          "y": 211.95902777777772,
+          "down": 0
+        }
+      ],
+      "objects": {
+        "platforms": 4,
+        "boxes": 0,
+        "balls": 0,
+        "seesaws": 0,
+        "hooks": 1
+      },
+      "ropeHooks": [],
+      "levers": [
+        false
+      ],
+      "plates": [],
+      "gates": [
+        {
+          "open": false,
+          "amount": 0
+        }
+      ],
+      "level": {
+        "bridge": 0,
+        "leverOn": false
+      },
+      "objective": "糸を滑車へ通せ",
+      "page_errors": []
+    },
+    {
+      "mode": "play",
+      "stage": 2,
+      "players": [
+        {
+          "id": 1,
+          "x": 42,
+          "y": 209.4208333333333,
+          "down": 0
+        },
+        {
+          "id": 2,
+          "x": 70,
+          "y": 211.4208333333333,
+          "down": 0
+        }
+      ],
+      "objects": {
+        "platforms": 4,
+        "boxes": 0,
+        "balls": 1,
+        "seesaws": 1,
+        "hooks": 0
+      },
+      "ropeHooks": [],
+      "levers": [
+        false
+      ],
+      "plates": [],
+      "gates": [
+        {
+          "open": false,
+          "amount": 0
+        }
+      ],
+      "level": {
+        "latch": false,
+        "wallHP": 1,
+        "launched": false
+      },
+      "objective": "ミミが留め具を解除せよ",
+      "page_errors": []
+    },
+    {
+      "mode": "play",
+      "stage": 3,
+      "players": [
+        {
+          "id": 1,
+          "x": 32,
+          "y": 200.5,
+          "down": 0
+        },
+        {
+          "id": 2,
+          "x": 58,
+          "y": 202.5,
+          "down": 0
+        }
+      ],
+      "objects": {
+        "platforms": 4,
+        "boxes": 0,
+        "balls": 0,
+        "seesaws": 0,
+        "hooks": 0
+      },
+      "ropeHooks": [],
+      "levers": [
+        false
+      ],
+      "plates": [
+        {
+          "value": 0,
+          "on": false
+        }
+      ],
+      "gates": [
+        {
+          "open": false,
+          "amount": 0
+        }
+      ],
+      "level": {
+        "lift": {
+          "x": 207,
+          "y": 218,
+          "w": 36,
+          "h": 7,
+          "targetY": 171,
+          "locked": false
+        },
+        "leverOn": false,
+        "startDelay": 2.5
+      },
+      "objective": "ブルーノが重量板を踏め",
+      "page_errors": []
+    },
+    {
+      "mode": "play",
+      "stage": 4,
+      "players": [
+        {
+          "id": 1,
+          "x": 34,
+          "y": 222.95902777777772,
+          "down": 0
+        },
+        {
+          "id": 2,
+          "x": 62,
+          "y": 222.95902777777772,
+          "down": 0
+        }
+      ],
+      "objects": {
+        "platforms": 12,
+        "boxes": 2,
+        "balls": 1,
+        "seesaws": 1,
+        "hooks": 2
+      },
+      "ropeHooks": [],
+      "levers": [],
+      "plates": [
+        {
+          "value": 0,
+          "on": false
+        },
+        {
+          "value": 0,
+          "on": false
+        }
+      ],
+      "gates": [
+        {
+          "open": false,
+          "amount": 0
+        }
+      ],
+      "level": {
+        "phase": 0,
+        "balance": 0,
+        "coreOpen": 0,
+        "coreHP": 1,
+        "timer": 149.89166666666677
+      },
+      "objective": "左右の秤を釣り合わせろ",
+      "page_errors": []
+    }
+  ],
+  "simultaneous_input": {
+    "before": [
+      {
+        "id": 1,
+        "x": 38,
+        "y": 209.95902777777772,
+        "down": 0
+      },
+      {
+        "id": 2,
+        "x": 66,
+        "y": 211.95902777777772,
+        "down": 0
+      }
+    ],
+    "after": [
+      {
+        "id": 1,
+        "x": 68.12816672404794,
+        "y": 226.5,
+        "down": 0
+      },
+      {
+        "id": 2,
+        "x": 100.50521253525011,
+        "y": 228.5,
+        "down": 0
+      }
+    ],
+    "both_moved": true
+  },
+  "logic_transitions": {
+    "stage1": {
+      "lever_released": true,
+      "gate_open": true
+    },
+    "stage2": {
+      "hook_count": 1,
+      "bridge_lever": true
+    },
+    "stage3": {
+      "latch": true,
+      "wall_broken": true
+    },
+    "stage4": {
+      "plate_on": true,
+      "lift_locked": true
+    },
+    "stage5": {
+      "balance_phase": 1,
+      "pulley_phase": 2,
+      "core_destroyed": true
+    }
+  },
+  "static": {
+    "external_scripts": false,
+    "external_images": false,
+    "fetch": false,
+    "websocket": false,
+    "single_file_bytes": 68851
+  }
+}
