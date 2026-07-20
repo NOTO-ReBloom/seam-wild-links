@@ -1,0 +1,177 @@
+{
+  "init": [
+    {
+      "i": 0,
+      "players": 2,
+      "goal": true,
+      "entities": 53
+    },
+    {
+      "i": 1,
+      "players": 2,
+      "goal": true,
+      "entities": 56
+    },
+    {
+      "i": 2,
+      "players": 2,
+      "goal": true,
+      "entities": 70
+    },
+    {
+      "i": 3,
+      "players": 2,
+      "goal": true,
+      "entities": 70
+    },
+    {
+      "i": 4,
+      "players": 2,
+      "goal": true,
+      "entities": 53
+    },
+    {
+      "i": 5,
+      "players": 2,
+      "goal": true,
+      "entities": 72
+    },
+    {
+      "i": 6,
+      "players": 2,
+      "goal": true,
+      "entities": 66
+    },
+    {
+      "i": 7,
+      "players": 2,
+      "goal": true,
+      "entities": 67
+    },
+    {
+      "i": 8,
+      "players": 2,
+      "goal": true,
+      "entities": 57
+    },
+    {
+      "i": 9,
+      "players": 2,
+      "goal": true,
+      "entities": 57
+    },
+    {
+      "i": 10,
+      "players": 2,
+      "goal": true,
+      "entities": 67
+    },
+    {
+      "i": 11,
+      "players": 2,
+      "goal": true,
+      "entities": 62
+    },
+    {
+      "i": 12,
+      "players": 2,
+      "goal": true,
+      "entities": 63
+    },
+    {
+      "i": 13,
+      "players": 2,
+      "goal": true,
+      "entities": 61
+    },
+    {
+      "i": 14,
+      "players": 2,
+      "goal": true,
+      "entities": 69
+    },
+    {
+      "i": 15,
+      "players": 2,
+      "goal": true,
+      "entities": 68
+    },
+    {
+      "i": 16,
+      "players": 2,
+      "goal": true,
+      "entities": 62
+    },
+    {
+      "i": 17,
+      "players": 2,
+      "goal": true,
+      "entities": 62
+    },
+    {
+      "i": 18,
+      "players": 2,
+      "goal": true,
+      "entities": 66
+    },
+    {
+      "i": 19,
+      "players": 2,
+      "goal": true,
+      "entities": 71
+    }
+  ],
+  "clears": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "special": {
+    "seesaw": 0.42,
+    "bloom": 3,
+    "frost": 3,
+    "polarityBefore": 1,
+    "polarityAfter": -1,
+    "lantern": true,
+    "shadow": true,
+    "initialBunnyVy": 0
+  },
+  "viewports": [
+    {
+      "w": 1600,
+      "h": 900,
+      "sw": 1600,
+      "sh": 900
+    },
+    {
+      "w": 1366,
+      "h": 768,
+      "sw": 1366,
+      "sh": 768
+    },
+    {
+      "w": 1280,
+      "h": 720,
+      "sw": 1280,
+      "sh": 720
+    }
+  ],
+  "errors": []
+}
