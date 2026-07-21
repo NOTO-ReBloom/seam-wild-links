@@ -1,0 +1,16 @@
+{
+  "worlds": 5,
+  "story_scenes": 15,
+  "trials": 5,
+  "total_experiences": 20,
+  "duplicate_ids": [],
+  "asset_files": [
+    "monet.webp",
+    "mucha.webp",
+    "museum.webp",
+    "picasso.webp",
+    "renoir.webp",
+    "title.webp",
+    "vangogh.webp"
+  ]
+}
